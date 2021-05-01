@@ -1,9 +1,9 @@
 {
-    "name": "jxlwqq/wang-editor2",
-    "description": "wang-editor2 for laravel-admin",
+    "name": "welsonla/wang-editor2",
+    "description": "This repo is fork from: https://github.com/laravel-admin-extensions/wangEditor2. wang-editor2 for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/wangEditor2",
+    "homepage": "https://github.com/welsonla/wangEditor2",
     "license": "MIT",
     "authors": [
         {
